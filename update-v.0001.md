@@ -1,4 +1,4 @@
-UPDATE v.0001 :
+#UPDATE v.0001 :
 
 - [UPDATE.01] Patch and adding its buttons.
 - [UPDATE.02] Correction of the problem of sound at the opening of the Panel.
